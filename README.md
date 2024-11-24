@@ -5,7 +5,7 @@ A blockchain-based commitment device that helps you achieve your goals through f
 
 ## Overview
 
-GFDI is a decentralized application (dApp) that leverages the power of financial incentives to help users complete their tasks and achieve their goals. By staking MATIC tokens against your promises and having a friend verify completion, you create a powerful motivation system backed by smart contracts.
+Motivate is a decentralized application (dApp) that leverages the power of financial incentives to help users complete their tasks and achieve their goals. By staking MATIC tokens against your promises and having a friend verify completion, you create a powerful motivation system backed by smart contracts.
 
 ### How It Works
 
@@ -101,10 +101,6 @@ A: No, deadlines are immutable once set - that's the point!
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-[Add your license here]
 
 
 ## Acknowledgments
