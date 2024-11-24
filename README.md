@@ -116,3 +116,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ---
 
 *Disclaimer: This is a financial commitment tool. Please stake responsibly and only what you can afford to lose.*# Motivate-app
+# Motivate-app
